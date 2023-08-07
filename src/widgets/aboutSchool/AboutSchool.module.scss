@@ -1,0 +1,29 @@
+.aboutSchool{
+  position: relative;  
+}
+.backgroundImage{
+
+  height: auto;
+}
+.aboutHTP,
+.aboutKSSDA {
+position: absolute;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+background-color: #00000094;
+width: 327px;
+}
+
+.aboutHTP {
+top: 0;
+right: 0;
+height: 483px;
+}
+
+.aboutKSSDA {
+top: 47%;
+right: 0;
+height: 536px;
+}
